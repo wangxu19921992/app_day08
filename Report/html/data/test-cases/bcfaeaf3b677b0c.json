@@ -1,0 +1,85 @@
+{
+  "uid" : "bcfaeaf3b677b0c",
+  "name" : "Test_Send_Sms.test_send_sms_text[\\u738b\\u65ed]",
+  "fullName" : "test_sms.Test_Send_Sms.test_send_sms_text[\\u738b\\u65ed]",
+  "historyId" : "60ed8d3c7ad73b7e2c71dfbbb4d2f29a",
+  "time" : {
+    "start" : 1548415909151,
+    "stop" : 1548415919711,
+    "duration" : 10560
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "第三步:输入短信内容123,王旭,abcdefg",
+      "time" : {
+        "start" : 1548415909152,
+        "stop" : 1548415919711,
+        "duration" : 10559
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "host",
+    "value" : "2A79O86HX4NOOL1"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "severity",
+    "value" : "normal"
+  }, {
+    "name" : "thread",
+    "value" : "10048-MainThread"
+  }, {
+    "name" : "suite",
+    "value" : "test_sms"
+  }, {
+    "name" : "testClass",
+    "value" : "test_sms"
+  }, {
+    "name" : "testMethod",
+    "value" : "Test_Send_Sms.test_send_sms_text[\\u738b\\u65ed]"
+  }, {
+    "name" : "package",
+    "value" : "test_sms"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "bcfaeaf3b677b0c.json",
+  "parameterValues" : [ ]
+}

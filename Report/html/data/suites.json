@@ -1,0 +1,45 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "test_sms",
+    "children" : [ {
+      "name" : "Test_Send_Sms.test_send_sms_text[123]",
+      "uid" : "a01d504c0767bd5",
+      "parentUid" : "10fc4c228d2590bbe5066e39bef6cfe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548415870470,
+        "stop" : 1548415909149,
+        "duration" : 38679
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Send_Sms.test_send_sms_text[\\u738b\\u65ed]",
+      "uid" : "bcfaeaf3b677b0c",
+      "parentUid" : "10fc4c228d2590bbe5066e39bef6cfe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548415909151,
+        "stop" : 1548415919711,
+        "duration" : 10560
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "Test_Send_Sms.test_send_sms_text[abcdefg]",
+      "uid" : "66a9b701353ee64f",
+      "parentUid" : "10fc4c228d2590bbe5066e39bef6cfe8",
+      "status" : "passed",
+      "time" : {
+        "start" : 1548415919712,
+        "stop" : 1548415930240,
+        "duration" : 10528
+      },
+      "flaky" : false,
+      "parameters" : [ ]
+    } ],
+    "uid" : "10fc4c228d2590bbe5066e39bef6cfe8"
+  } ]
+}

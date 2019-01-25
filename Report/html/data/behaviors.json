@@ -1,0 +1,41 @@
+{
+  "uid" : "b1a8273437954620fa374b796ffaacdd",
+  "name" : "behaviors",
+  "children" : [ {
+    "name" : "Test_Send_Sms.test_send_sms_text[123]",
+    "uid" : "a01d504c0767bd5",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1548415870470,
+      "stop" : 1548415909149,
+      "duration" : 38679
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test_Send_Sms.test_send_sms_text[\\u738b\\u65ed]",
+    "uid" : "bcfaeaf3b677b0c",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1548415909151,
+      "stop" : 1548415919711,
+      "duration" : 10560
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  }, {
+    "name" : "Test_Send_Sms.test_send_sms_text[abcdefg]",
+    "uid" : "66a9b701353ee64f",
+    "parentUid" : "b1a8273437954620fa374b796ffaacdd",
+    "status" : "passed",
+    "time" : {
+      "start" : 1548415919712,
+      "stop" : 1548415930240,
+      "duration" : 10528
+    },
+    "flaky" : false,
+    "parameters" : [ ]
+  } ]
+}

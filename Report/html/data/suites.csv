@@ -1,0 +1,4 @@
+"Status","Name","Duration in ms","Description"
+"passed","test_sms.Test_Send_Sms.test_send_sms_text[\u738b\u65ed]","10560",""
+"passed","test_sms.Test_Send_Sms.test_send_sms_text[abcdefg]","10528",""
+"passed","test_sms.Test_Send_Sms.test_send_sms_text[123]","38679",""
